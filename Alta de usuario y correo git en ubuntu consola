@@ -1,0 +1,27 @@
+Configuracion de Nombre de usuario git 
+
+Para esto usamos el comando:
+git config user.name"nombre usuario" 
+
+pablo@:~$ git config user.name PabloLeonA
+
+comprobacion de usuario
+
+pablo@:~$ git config user.name
+PabloLeonA
+
+Con el comando anterior sabemos cual es el usuario configurado en nuestra consola con git
+
+
+Configuracion de Correo de usuario git
+
+para esto usamos el comando:
+git config user.email "email@example.com"
+
+
+pablo@:~$ git config user.email jpablo.lea@gmail.com
+
+comprobacion de correo
+
+pablo@:~$ git config user.email
+jpablo.lea@gmail.com
